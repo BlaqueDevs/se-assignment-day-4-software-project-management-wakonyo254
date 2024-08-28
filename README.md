@@ -8,6 +8,7 @@
      Effective cost control ensures that the resources are allocated wisely and avoids budget overruns thus contributes to the success of a sofware project.
      Stragies used to prevent budget overruns include having a detailed project plan with accurate cost estimation, having a realistic budget, monitoring and tracking the 
      project regularly, optimizing resource allocation, identifying risks early and having a constant communication with the stakeholders.
+     
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each
      Agile methodology is a software project development approach that focuses on delivering small, increamental changes to a product rather than completing the entire 
      project before releasing it.
